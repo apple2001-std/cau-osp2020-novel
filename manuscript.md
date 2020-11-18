@@ -2294,11 +2294,7 @@ TV는 무수히 많은 세계의 모습을 보여주곤 했었다.
 ```
 
 소고기 더미의 카트를 끌고 가던 정육점 아저씨는 달려와 소고기를 낚아채는 톰을 보며 소리쳤다. 
-정육점 아저씨는 톰을 잡기 위해 있는 힘껏 달리기 시작했다. 하지만 재빠른 고양이를 잡기에는 역부족이었다.
-
-```
-젠장! 이런 도둑고양이 같으니라고.. 다음에 만나면 가만 안 둔다!!
-```
+정육점 아저씨는 톰을 잡기 위해 있는 힘껏 달리기 시작했다.
 
 <!-- 정육점에서 달아나는 톰 사진 -->
 <p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMTNfMjA3/MDAxNjA1MjU0MDEyOTA5.PArYo4LfKtI4yuOC2b7T5Ouh7jpgutYSS4tpo_o7W6sg.f9UiYfnrtJY9OFWGA8UrCWMOST3nkkwv36Ygcd5NRxYg.PNG.eunyoungyi/%EC%A0%84%EA%B0%9C_%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80_%EC%A0%95%EC%9C%A1%EC%A0%90%EC%95%84%EC%A0%80%EC%94%A8(%EC%88%98).png?type=w773" width="50%" height="50%">
